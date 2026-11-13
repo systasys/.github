@@ -10,6 +10,7 @@ Most of the firm’s work runs in private. What goes out is signed by SYSTASYS: 
 
 ### Tools
 
+- **[SkeptOpus](https://github.com/systasys/skeptopus)** · Your AI says it’s done. SkeptOpus goes and looks: it checks what AI coding agents claim, on your machine, with no telemetry. MIT.
 - **[ACE Receipts](https://github.com/monkidy/ace-receipts)** · Checks AI-agent work for proof, risk and permission before you accept it. A CLI and GitHub Action, Apache-2.0.
 - **[Sendable?](https://trysendable.com/)** · Reads a draft before you send it, and says send, revise or don’t send.
 
